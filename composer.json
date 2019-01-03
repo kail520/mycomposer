@@ -1,0 +1,13 @@
+{
+    "name": "kail520/mycomposer",
+    "description": "this is a test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kail",
+            "email": "1399791106@qq.com"
+        }
+    ],
+    "require": {}
+}
